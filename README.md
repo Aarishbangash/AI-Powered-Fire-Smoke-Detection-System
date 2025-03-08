@@ -36,10 +36,7 @@ The model was trained on a diverse dataset from [Roboflow’s FireSmoke Dataset]
   # On Windows:
   venv\Scripts\activate
 
-Install the required packages:
+**Install the required packages:**
 
+```bash
 pip install -r requirements.txt
-
-Run the App:
-
-streamlit run app.py
