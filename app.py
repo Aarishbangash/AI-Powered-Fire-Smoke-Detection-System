@@ -7,7 +7,7 @@ from ultralytics import YOLO
 import moviepy.editor as mpy
 
 # Load YOLO model
-MODEL_PATH = "Best.pt"
+MODEL_PATH = "best.pt"
 model = YOLO(MODEL_PATH, task="detect")
 # If you have a GPU, you might speed things up by uncommenting the next line:
 # model.to('cuda')
