@@ -1,0 +1,10 @@
+streamlit
+ultralytics
+torch
+torchvision
+torchaudio
+numpy
+opencv-python
+moviepy
+moviepy==1.0.3
+
