@@ -13,9 +13,6 @@ license: apache-2.0
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
 # AI-Powered Fire & Smoke Detection System
-
-# AI-Powered Fire & Smoke Detection System
-
 ## Overview
 
 This project leverages the state-of-the-art YOLOv8 deep learning model to detect fire and smoke in images and videos. By combining powerful object detection with a user-friendly Streamlit dashboard and deployment on Hugging Face Spaces, the system provides a robust solution for early fire hazard detection.
