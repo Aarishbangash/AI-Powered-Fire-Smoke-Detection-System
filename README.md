@@ -23,5 +23,23 @@ The model was trained on a diverse dataset from [Roboflow’s FireSmoke Dataset]
 
 1. **Clone the Repository:**
    ```bash
-git clone https://github.com/Aarishbangash/AI-Powered-Fire-Smoke-Detection-System.git
-cd AI-Powered-Fire-Smoke-Detection-System
+   git clone https://github.com/Aarishbangash/AI-Powered-Fire-Smoke-Detection-System.git
+   cd AI-Powered-Fire-Smoke-Detection-System
+
+2. **Set Up the Environment and Install Dependencies:**
+
+- **Create and activate a virtual environment:**
+  ```bash
+  python -m venv venv
+  # On Linux/Mac:
+  source venv/bin/activate
+  # On Windows:
+  venv\Scripts\activate
+
+Install the required packages:
+
+pip install -r requirements.txt
+
+Run the App:
+
+streamlit run app.py
