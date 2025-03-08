@@ -23,5 +23,5 @@ The model was trained on a diverse dataset from [Roboflow’s FireSmoke Dataset]
 
 1. **Clone the Repository:**
    ```bash
-   git clone <YOUR_REPO_URL>
-   cd <REPO_DIRECTORY>
+git clone https://github.com/Aarishbangash/AI-Powered-Fire-Smoke-Detection-System.git
+cd AI-Powered-Fire-Smoke-Detection-System
